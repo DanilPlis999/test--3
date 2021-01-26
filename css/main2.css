@@ -1,0 +1,20 @@
+.text {
+  margin-top: 200px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 30px;
+}
+
+.text2 {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=main2.css.map */
